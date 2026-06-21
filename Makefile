@@ -2,7 +2,7 @@
 VERSION = 6
 PATCHLEVEL = 6
 SUBLEVEL = 89
-EXTRAVERSION =
+EXTRAVERSION = lijilongbuilder
 NAME = Pinguïn Aangedreven
 
 # *DOCUMENTATION*
